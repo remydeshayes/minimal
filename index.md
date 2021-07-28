@@ -11,11 +11,9 @@ I recently graduated from ENSAE, [Institut Polytechnique de Paris](https://www.i
 
 ## 👀 Research interests
 
-I am broadly interested in causal inference, computational statistics and AI/ML for human health, behavior and well-being. In particular, 
+I am broadly interested in causal inference, computational statistics and AI/ML for human health, behavior and well-being. Recently, I enjoyed working on 
 
-## 🔍 Projects & Publications
-
-Here are a few selected projects I enjoyed working on
+## 🔍 Selected projects & publications
 
 #### Small title
 *   Item foo
