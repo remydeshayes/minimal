@@ -9,6 +9,8 @@ Previously, I was a research assistant advised by [Prof. Tim Althoff](http://tim
 
 ## 👀 Research interests
 
+I am broadly interested in causal inference, computational statistics and AI/ML for human health, behavior and well-being.
+
 ## 🔍 Projects & Publications
 
 #### Small title
