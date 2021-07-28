@@ -10,3 +10,9 @@ Previously, I was a research assistant advised by [Prof. Tim Althoff](http://tim
 ## 👀 Research interests
 
 ## 🔍 Projects & Publications
+
+#### Small title
+*   Item foo
+*   Item bar
+*   Item baz
+*   Item zip
