@@ -24,13 +24,13 @@ In my free time, when I am not cooking, I like reading and (occasionally) writin
     
 #### GAN 
 *   Probability distribution learning and Generative Modeling - DCGAN & CycleGAN            
-    <a href="" target="_blank"><i class="fa fa-file-pdf-o [&#xf1c1;]" ></i> pdf</a>   <a href="" target="_blank"><i class="fa fa-github"></i> code</a>
+    <a href="assets/papers/deep_learning_final_report_berillon_deshayes.pdf" target="_blank"><i class="fa fa-file-pdf-o [&#xf1c1;]" ></i> pdf</a>   <a href="" target="_blank"><i class="fa fa-github"></i> code</a>
 *   Optimal Transport GAN           
-    <a href="" target="_blank"><i class="fa fa-file-pdf-o [&#xf1c1;]" ></i> pdf</a>   <a href="" target="_blank"><i class="fa fa-github"></i> code</a>
+    <a href="assets/papers/ot_final_report_berillon_deshayes.pdf" target="_blank"><i class="fa fa-file-pdf-o [&#xf1c1;]" ></i> pdf</a>   <a href="" target="_blank"><i class="fa fa-github"></i> code</a>
 
 #### NLP
 *   Fake news detection with PyTorch      
-    <a href="" target="_blank"><i class="fa fa-file-pdf-o [&#xf1c1;]" ></i> pdf</a>   <a href="" target="_blank"><i class="fa fa-github"></i> code</a>
+    <a href="assets/papers/report_nlp_billiot_deshayes.pdf" target="_blank"><i class="fa fa-file-pdf-o [&#xf1c1;]" ></i> pdf</a>   <a href="" target="_blank"><i class="fa fa-github"></i> code</a>
     
 #### Bayesian methods
 *   Item foo      
