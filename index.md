@@ -18,6 +18,10 @@ In my free time, when I am not cooking, I like reading and (occasionally) writin
 
 ## 🔍 Selected projects & publications
 
+#### Reinforcement Learning
+*   Unsupervised RL & Maximum Entropy RL: the DIAYN algorithm          
+    <a href=""><i class="fa fa-file-pdf-o [&#xf1c1;]"></i> pdf</a>   <a href=""><i class="fa fa-github"></i> code</a> <a href=""><i class="fab fa-youtube"></i> video</a>
+
 #### NLP
 *   Fake news detection with PyTorch      
     <a href=""><i class="fa fa-file-pdf-o [&#xf1c1;]"></i> pdf</a>   <a href=""><i class="fa fa-github"></i> code</a>
@@ -27,10 +31,6 @@ In my free time, when I am not cooking, I like reading and (occasionally) writin
     <a href=""><i class="fa fa-file-pdf-o [&#xf1c1;]"></i> pdf</a>   <a href=""><i class="fa fa-github"></i> code</a>
 *   Optimal Transport GAN           
     <a href=""><i class="fa fa-file-pdf-o [&#xf1c1;]"></i> pdf</a>   <a href=""><i class="fa fa-github"></i> code</a>
-
-#### Reinforcement Learning
-*   Item foo       
-    <a href=""><i class="fa fa-file-pdf-o [&#xf1c1;]"></i> pdf</a>   <a href=""><i class="fa fa-github"></i> code</a> <a href=""><i class="fab fa-youtube"></i> video</a>
 
 #### Bayesian methods
 *   Item foo      
