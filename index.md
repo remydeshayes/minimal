@@ -30,7 +30,7 @@ In my free time, when I am not cooking, I like reading and (occasionally) writin
 
 #### Reinforcement Learning
 *   Item foo       
-    <a href=""><i class="fa fa-file-pdf-o [&#xf1c1;]"></i> pdf</a>   <a href=""><i class="fa fa-github"></i> code</a>
+    <a href=""><i class="fa fa-file-pdf-o [&#xf1c1;]"></i> pdf</a>   <a href=""><i class="fa fa-github"></i> code</a> <a href=""><i class="fab fa-youtube"></i> video</a>
 
 #### Bayesian methods
 *   Item foo      
