@@ -21,15 +21,15 @@ In my free time, when I am not cooking, I like reading and (occasionally) writin
 #### Reinforcement Learning
 *   Unsupervised RL & Maximum Entropy RL: the DIAYN algorithm          
     <a href=""><i class="fa fa-file-pdf-o [&#xf1c1;]"></i> pdf</a>   <a href=""><i class="fa fa-github"></i> code</a> <a href=""><i class="fab fa-youtube"></i> video</a>
-
-#### NLP
-*   Fake news detection with PyTorch      
-    <a href=""><i class="fa fa-file-pdf-o [&#xf1c1;]"></i> pdf</a>   <a href=""><i class="fa fa-github"></i> code</a>
-
+    
 #### GAN 
 *   Probability distribution learning and Generative Modeling - DCGAN & CycleGAN            
     <a href=""><i class="fa fa-file-pdf-o [&#xf1c1;]"></i> pdf</a>   <a href=""><i class="fa fa-github"></i> code</a>
 *   Optimal Transport GAN           
+    <a href=""><i class="fa fa-file-pdf-o [&#xf1c1;]"></i> pdf</a>   <a href=""><i class="fa fa-github"></i> code</a>
+
+#### NLP
+*   Fake news detection with PyTorch      
     <a href=""><i class="fa fa-file-pdf-o [&#xf1c1;]"></i> pdf</a>   <a href=""><i class="fa fa-github"></i> code</a>
 
 #### Bayesian methods
