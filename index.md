@@ -20,22 +20,26 @@ In my free time, when I am not cooking, I like reading and (occasionally) writin
 
 #### NLP
 *   Fake news detection with PyTorch      
-    <a href="another.pdf"><i class="fa fa-file-pdf-o [&#xf1c1;]"></i> pdf</a>   <a href="https://github.com/remydeshayes"><i class="fa fa-github"></i> code</a>
+    <a href=""><i class="fa fa-file-pdf-o [&#xf1c1;]"></i> pdf</a>   <a href=""><i class="fa fa-github"></i> code</a>
 
 #### GAN 
 *   Probability distribution learning and Generative Modeling - DCGAN & CycleGAN       
-    Github   pdf
+    <a href=""><i class="fa fa-file-pdf-o [&#xf1c1;]"></i> pdf</a>   <a href=""><i class="fa fa-github"></i> code</a>
 *   Optimal Transport GAN        
-    Github   pdf
+    <a href=""><i class="fa fa-file-pdf-o [&#xf1c1;]"></i> pdf</a>   <a href=""><i class="fa fa-github"></i> code</a>
 
 #### Reinforcement Learning
 *   Item foo
+    <a href=""><i class="fa fa-file-pdf-o [&#xf1c1;]"></i> pdf</a>   <a href=""><i class="fa fa-github"></i> code</a>
 
 #### Bayesian methods
 *   Item foo
+    <a href=""><i class="fa fa-file-pdf-o [&#xf1c1;]"></i> pdf</a>   <a href=""><i class="fa fa-github"></i> code</a>
 
 #### Parallel computing
 *   Item foo
+    <a href=""><i class="fa fa-file-pdf-o [&#xf1c1;]"></i> pdf</a>   <a href=""><i class="fa fa-github"></i> code</a>
 
 #### Compressed Sensing 
 *   Item foo
+    <a href=""><i class="fa fa-file-pdf-o [&#xf1c1;]"></i> pdf</a>   <a href=""><i class="fa fa-github"></i> code</a>
