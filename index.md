@@ -20,7 +20,8 @@ In my free time, when I am not cooking, I like reading and (occasionally) writin
 
 #### NLP
 *   Fake news detection with PyTorch      
-    Github   pdf
+    Github   pdf       
+    <a href="https://github.com/remydeshayes"><i class="fa fa-github"></i> Github</a></br>
 
 #### GAN 
 *   Probability distribution learning and Generative Modeling - DCGAN & CycleGAN       
