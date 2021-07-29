@@ -19,7 +19,7 @@ In my free time, when I am not cooking, I like reading and (occasionally) writin
 ## 🔍 Selected projects & publications
 
 #### NLP
-*   Fake news detection with PyTorch
+*   Fake news detection with PyTorch      
     Github   pdf
 
 #### GAN 
