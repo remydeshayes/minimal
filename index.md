@@ -29,7 +29,7 @@ In my free time, when I am not cooking, I like reading and (occasionally) writin
     <a href="assets/papers/ot_final_report_berillon_deshayes.pdf" target="_blank"><i class="fa fa-file-pdf-o [&#xf1c1;]" ></i> pdf</a>   <a href="https://github.com/remydeshayes/OTGAN.git" target="_blank"><i class="fa fa-github"></i> code</a>
     
 #### Compressed Sensing 
-*   Item foo        
+*   Compressed Sensing: Semidefinite Relaxations for Integer Programming - Max-Cut and Graph Coloring
     <a href="https://github.com/remydeshayes/compressed_sensing.git" target="_blank"><i class="fa fa-github"></i> code</a>
 
 #### NLP
@@ -37,9 +37,9 @@ In my free time, when I am not cooking, I like reading and (occasionally) writin
     <a href="assets/papers/report_nlp_billiot_deshayes.pdf" target="_blank"><i class="fa fa-file-pdf-o [&#xf1c1;]" ></i> pdf</a>   <a href="https://github.com/remydeshayes/NLP_Pytorch.git" target="_blank"><i class="fa fa-github"></i> code</a>
     
 #### Bayesian methods
-*   Item foo      
+*   Predictive view of Bayesian Clustering    
     <a href="" target="_blank"><i class="fa fa-file-pdf-o [&#xf1c1;]" ></i> pdf</a>   <a href="https://github.com/remydeshayes/bayesian_clustering.git" target="_blank"><i class="fa fa-github"></i> code</a>
 
 #### Parallel computing
-*   Item foo       
+*   Parallel Lasso in Cython      
     <a href="" target="_blank"><i class="fa fa-file-pdf-o [&#xf1c1;]" ></i> pdf</a>   <a href="https://github.com/remydeshayes/Parallel_computing.git" target="_blank"><i class="fa fa-github"></i> code</a>
