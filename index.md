@@ -12,18 +12,20 @@ I recently graduated from ENSAE, [Institut Polytechnique de Paris](https://www.i
 ## 👀 Research interests
 
 I am broadly interested in causal inference, computational statistics and AI/ML for human health, behavior and well-being.   
-Recently, I enjoyed using NLP, matching techniques and sensitivity analysis in the context of social media and mental health. In the past, I also had fun working on Time Series, 
+Recently, I enjoyed using NLP, matching techniques and sensitivity analysis in the context of social media and mental health. In the past, I also had fun working on unsupervised reinforcement learning, generative adversarial networks, auction theory and times series forecasting.
 
-In my free time, I enjoy learning on 
+In my free time, when I am not cooking, I like reading about sociology and occasionally I try to write something 
 
 ## 🔍 Selected projects & publications
 
 #### NLP
-*   Item foo
+*   Fake news detection with PyTorch
 
 #### GAN 
-*   Item foo
-*   Item bar
+*   Probability distribution learning and Generative Modeling - DCGAN & CycleGAN       
+    Github   pdf
+*   Optimal Transport GAN        
+    Github   pdf
 
 #### Reinforcement Learning
 *   Item foo
