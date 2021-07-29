@@ -12,7 +12,9 @@ I recently graduated from ENSAE, [Institut Polytechnique de Paris](https://www.i
 ## 👀 Research interests
 
 I am broadly interested in causal inference, computational statistics and AI/ML for human health, behavior and well-being.   
-Recently, I enjoyed using ML and sensitivity analysis techniques . I also worked on
+Recently, I enjoyed using NLP, matching techniques and sensitivity analysis in the context of social media and mental health. In the past, I also had fun working on Time Series, 
+
+In my free time, I enjoy learning on 
 
 ## 🔍 Selected projects & publications
 
