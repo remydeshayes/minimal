@@ -23,23 +23,23 @@ In my free time, when I am not cooking, I like reading and (occasionally) writin
     <a href=""><i class="fa fa-file-pdf-o [&#xf1c1;]"></i> pdf</a>   <a href=""><i class="fa fa-github"></i> code</a>
 
 #### GAN 
-*   Probability distribution learning and Generative Modeling - DCGAN & CycleGAN       
+*   Probability distribution learning and Generative Modeling - DCGAN & CycleGAN            
     <a href=""><i class="fa fa-file-pdf-o [&#xf1c1;]"></i> pdf</a>   <a href=""><i class="fa fa-github"></i> code</a>
-*   Optimal Transport GAN        
+*   Optimal Transport GAN           
     <a href=""><i class="fa fa-file-pdf-o [&#xf1c1;]"></i> pdf</a>   <a href=""><i class="fa fa-github"></i> code</a>
 
 #### Reinforcement Learning
-*   Item foo
+*   Item foo       
     <a href=""><i class="fa fa-file-pdf-o [&#xf1c1;]"></i> pdf</a>   <a href=""><i class="fa fa-github"></i> code</a>
 
 #### Bayesian methods
-*   Item foo
+*   Item foo      
     <a href=""><i class="fa fa-file-pdf-o [&#xf1c1;]"></i> pdf</a>   <a href=""><i class="fa fa-github"></i> code</a>
 
 #### Parallel computing
-*   Item foo
+*   Item foo       
     <a href=""><i class="fa fa-file-pdf-o [&#xf1c1;]"></i> pdf</a>   <a href=""><i class="fa fa-github"></i> code</a>
 
 #### Compressed Sensing 
-*   Item foo
+*   Item foo        
     <a href=""><i class="fa fa-file-pdf-o [&#xf1c1;]"></i> pdf</a>   <a href=""><i class="fa fa-github"></i> code</a>
