@@ -29,7 +29,7 @@ In my free time, when I am not cooking, I like reading and (occasionally) writin
     <a href="assets/papers/ot_final_report_berillon_deshayes.pdf" target="_blank"><i class="fa fa-file-pdf-o [&#xf1c1;]" ></i> pdf</a>   <a href="https://github.com/remydeshayes/OTGAN.git" target="_blank"><i class="fa fa-github"></i> code</a>
     
 #### Compressed Sensing 
-*   Compressed Sensing: Semidefinite Relaxations for Integer Programming - Max-Cut and Graph Coloring      
+*   Semidefinite Relaxations for Integer Programming - Max-Cut and Graph Coloring             
     <a href="https://github.com/remydeshayes/compressed_sensing.git" target="_blank"><i class="fa fa-github"></i> code</a>
 
 #### NLP
