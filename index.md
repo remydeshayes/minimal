@@ -38,7 +38,7 @@ In my free time, when I am not cooking, I like reading and (occasionally) writin
     
 #### Bayesian methods
 *   Predictive view of Bayesian Clustering    
-    <a href="" target="_blank"><i class="fa fa-file-pdf-o [&#xf1c1;]" ></i> pdf</a>   <a href="https://github.com/remydeshayes/bayesian_clustering.git" target="_blank"><i class="fa fa-github"></i> code</a>
+    <a href="assets/papers/bayes_clustering_en.pdf" target="_blank"><i class="fa fa-file-pdf-o [&#xf1c1;]" ></i> pdf</a>   <a href="https://github.com/remydeshayes/bayesian_clustering.git" target="_blank"><i class="fa fa-github"></i> code</a>
 
 #### Parallel computing
 *   Parallel Lasso in Cython      
