@@ -42,4 +42,4 @@ In my free time, when I am not cooking, I like reading and (occasionally) writin
 
 #### Parallel computing
 *   Parallel Lasso in Cython      
-    <a href="" target="_blank"><i class="fa fa-file-pdf-o [&#xf1c1;]" ></i> pdf</a>   <a href="https://github.com/remydeshayes/Parallel_computing.git" target="_blank"><i class="fa fa-github"></i> code</a>
+    <a href="assets/papers/parallel_comp_en.pdf" target="_blank"><i class="fa fa-file-pdf-o [&#xf1c1;]" ></i> pdf</a>   <a href="https://github.com/remydeshayes/Parallel_computing.git" target="_blank"><i class="fa fa-github"></i> code</a>
