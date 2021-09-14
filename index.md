@@ -11,7 +11,7 @@ I recently graduated from ENSAE, <a href="https://www.ip-paris.fr/en" target="_b
 
 ## 👀 Research interests
 
-I am broadly interested in causal inference, statistical methodology, computational statistics and AI/ML for human health, behavior and well-being.   
+I am broadly interested in causal inference, statistical methodology, computational social science and AI/ML for human health, behavior and well-being.   
 Recently, I enjoyed using NLP, matching techniques and sensitivity analysis in the context of social media and mental health. In the past, I also had fun working on unsupervised reinforcement learning, generative adversarial networks, parallel computing, auction theory and times series forecasting.
 
 In my free time, when I am not cooking, I like reading and (occasionally) writing about sociology - <a href="assets/papers/essay_1.pdf" target="_blank"> here</a> is an attempt to write on the behavioral determinants of health.
