@@ -16,7 +16,11 @@ Recently, I enjoyed using NLP, matching techniques and sensitivity analysis in t
 
 In my free time, when I am not cooking, I like reading and (occasionally) writing about sociology - <a href="assets/papers/essay_1.pdf" target="_blank"> here</a> is an attempt to write on the behavioral determinants of health.
 
-## 🔍 Selected projects & publications
+## 📝 Publications
+
+Captari, L. E., Sandage, S., Cowden, R.G., **Deshayes, R.**, Choe., E., Crabtree, S., Davis, W., & Aten, J. (in press). Spiritual, religious, and existential processes of posttraumatic growth: Seeking, struggle, and transformation. _Routledge International Handbook on Posttraumatic Growth_. Routledge.
+
+## 🔍 Selected projects
 
 #### Reinforcement Learning
 *   Unsupervised RL & Maximum Entropy RL: the DIAYN algorithm          
