@@ -34,8 +34,7 @@ Captari, L. E., Sandage, S., Cowden, R.G., **Deshayes, R.**, Choe., E., Crabtree
     
 #### Compressed Sensing 
 *   Semidefinite Relaxations for Integer Programming - Max-Cut and Graph Coloring               
-     <a href="assets/papers/slides_cs.pdf" target="_blank"><i class="fa fa-file-pdf-o [&#xf1c1;]" ></i> slides in French</a>         
-    <a href="https://github.com/remydeshayes/compressed_sensing.git" target="_blank"><i class="fa fa-github"></i> code</a>
+     <a href="assets/papers/slides_cs.pdf" target="_blank"><i class="fa fa-file-pdf-o [&#xf1c1;]" ></i> slides in French</a>    <a href="https://github.com/remydeshayes/compressed_sensing.git" target="_blank"><i class="fa fa-github"></i> code</a>
     
 
 #### NLP
