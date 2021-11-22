@@ -22,8 +22,6 @@ In my free time, when I am not cooking, I like reading and (occasionally) writin
 •	Captari, L. E., Sandage, S., Cowden, R.G., **Deshayes, R.**, Choe., E., Crabtree, S., Davis, W., & Aten, J. (in press). Spiritual, religious, and existential processes of posttraumatic growth: Seeking, struggle, and transformation. _Routledge International Handbook on Posttraumatic Growth_. Routledge.      
 
 •	Deshayes, R., Cowden, R.G., Shiba, K., VanderWeele, T. J., Fancourt D. (in preparation). Associations of Underlying Motivation for Compliance with Public Health Measure During COVID-19 Lockdown with Subsequent Health and Well-being Among UK Adults. Expected December
-![image](https://user-images.githubusercontent.com/70655092/142888766-a1a16f0b-c23d-490e-a95d-59f0988d38cd.png)
-
 
 ## 🔍 Selected projects
 
