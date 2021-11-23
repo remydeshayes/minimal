@@ -15,7 +15,7 @@ I am very broadly interested in Causal inference, AI/ML for healthcare and biome
 
 Recently, I enjoyed using NLP, matching techniques and sensitivity analysis in the context of social media and mental health - <a href="assets/papers/project_group_presentation.pdf" target="_blank"> here</a> are introductory slides from a brief talk I gave at UW in September 2020. In the past, I also had fun working on unsupervised reinforcement learning, generative adversarial networks, parallel computing, auction theory and times series forecasting.
 
-In my free time, when I am not cooking, I like reading and (occasionally) writing about sociology - <a href="assets/papers/essay_1.pdf" target="_blank"> here</a> is an attempt to write on the behavioral determinants of health.
+In my free time, when I am not cooking, I like reading and (occasionally) writing about sociology - <a href="assets/papers/essay_1.pdf" target="_blank"> Essay 1</a> and <a href="assets/papers/essay_1.pdf" target="_blank"> Essay 2</a> are two recent attempts to write about the behavioral determinants of health and the politics of health inequalities.
 
 ## 📝 Publications
 
