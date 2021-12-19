@@ -4,7 +4,7 @@ layout: default
 
 ## 👋 Hello!
 
-I am a Fellow at Harvard, working in <a href="https://www.hsph.harvard.edu/tyler-vanderweele/" target="_blank"> Prof. Tyler VanderWeele</a>’s group. My current research builds causal models to evaluate the effect of the COVID-19 pandemic on well-being.    
+I am a Fellow at Harvard, working in <a href="https://www.hsph.harvard.edu/tyler-vanderweele/" target="_blank"> Prof. Tyler VanderWeele</a>’s group. My current research builds causal models to evaluate the effect of the COVID-19 pandemic on health and well-being.    
 Previously, I was a research assistant advised by <a href="http://timalthoff.de/" target="_blank"> Prof. Tim Althoff</a> in the <a href="https://behavioral-data.github.io/" target="_blank"> Behavioral Data Science Lab</a> at the Paul G. Allen School of Computer Science & Engineering, University of Washington, Seattle.      
 
 I recently graduated from ENSAE, <a href="https://www.ip-paris.fr/en" target="_blank"> Institut Polytechnique de Paris</a> with a MS in Computer Science and Statistics and from <a href="https://www.essec.edu/en/" target="_blank"> ESSEC Business School</a> with a Master in Management. During my studies, I was a data scientist intern at <a href="https://www.quantmetry.com/" target="_blank"> Quantmetry</a>.
