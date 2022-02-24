@@ -11,8 +11,8 @@ I recently graduated from ENSAE, <a href="https://www.ip-paris.fr/en" target="_b
 
 ## 👀 Research interests
 
-I am very broadly interested in Causal Inference, Explainability, Robustness, Fairness, AI/ML for Healthcare and Biomedicine, Statistical
-Methodology for Complex High-Dimensional Data and Computational Social Science.      
+I am very broadly interested in Causal Inference, Explainability, Robustness, Fairness, AI/ML for Healthcare and Biomedicine and Statistical
+Methodology for Complex High-Dimensional Data.      
 
 Recently, I enjoyed using NLP, matching techniques and sensitivity analysis in the context of social media and mental health - <a href="assets/papers/project_group_presentation.pdf" target="_blank"> here</a> are introductory slides from a brief talk I gave at UW in September 2020. In the past, I also had fun working on unsupervised reinforcement learning, generative adversarial networks, parallel computing, auction theory and times series forecasting.
 
