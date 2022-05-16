@@ -6,7 +6,7 @@ layout: default
 
 I recently moved to London, UK and joined <a href="https://www.integrumesg.com/" target="_blank"> Integrum ESG</a> as Lead Machine Learning Researcher.
 
-Prior to joining, I worked on the connections between Causal Inference, Machine Learning and Data Science at Harvard, where I was a Research Fellow in <a href="https://www.hsph.harvard.edu/tyler-vanderweele/" target="_blank"> Prof. Tyler VanderWeele</a>’s group and at the University of Washington (Seattle, WA) in <a href="http://timalthoff.de/" target="_blank"> Prof. Tim Althoff</a>'s <a href="https://behavioral-data.github.io/" target="_blank"> Behavioral Data Science Lab</a>.      
+Prior to joining, I worked on the connections between Causal Inference, Machine Learning and Data Science at Harvard, where I was a Research Fellow in <a href="https://www.hsph.harvard.edu/tyler-vanderweele/" target="_blank"> Prof. Tyler VanderWeele</a>’s group, and at the University of Washington (Seattle, WA) in <a href="http://timalthoff.de/" target="_blank"> Prof. Tim Althoff</a>'s <a href="https://behavioral-data.github.io/" target="_blank"> Behavioral Data Science Lab</a>.      
 
 I graduated from ENSAE, <a href="https://www.ip-paris.fr/en" target="_blank"> Institut Polytechnique de Paris</a> with a MS in Computer Science and Statistics and from <a href="https://www.essec.edu/en/" target="_blank"> ESSEC Business School</a> with a MS in Economics and Management. During my studies, I was a data scientist intern at <a href="https://www.quantmetry.com/" target="_blank"> Quantmetry</a>.
 
