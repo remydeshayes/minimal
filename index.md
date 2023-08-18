@@ -19,6 +19,8 @@ Recently, I enjoyed using NLP, matching techniques and sensitivity analysis in t
 In my free time, when I am not cooking, I like reading and (occasionally) writing about sociology - <a href="assets/papers/essay_1.pdf" target="_blank"> Essay 1</a> and <a href="assets/papers/essay_2.pdf" target="_blank"> Essay 2</a> are two recent attempts to write about the behavioral determinants of health and the politics of health inequality.
 
 ## 📝 Publications
+•	**Deshayes, R.**, Murnaghan, T. (in press). <a href="assets/papers/pi_conference_checked.pdf" target="_blank"> Pioneering Transparent ESG Analysis on Public
+Markets: Leveraging Machine Learning to Transform ESG Data</a>. _ESG Club Conference_. Portfolio Institutional.
 
 •	Captari, L. E., Sandage, S., Cowden, R.G., **Deshayes, R.**, Choe., E., Crabtree, S., Davis, W., & Aten, J. (in press). Spiritual, religious, and existential processes of posttraumatic growth: Seeking, struggle, and transformation. _Routledge International Handbook on Posttraumatic Growth_. Routledge.      
 
@@ -42,7 +44,6 @@ In my free time, when I am not cooking, I like reading and (occasionally) writin
 *   Semidefinite Relaxations for Integer Programming - Max-Cut and Graph Coloring               
      <a href="assets/papers/slides_cs.pdf" target="_blank"><i class="fa fa-file-pdf-o [&#xf1c1;]" ></i> slides in French</a>    <a href="https://github.com/remydeshayes/compressed_sensing.git" target="_blank"><i class="fa fa-github"></i> code</a>
     
-
 #### NLP
 *   Fake news detection with PyTorch      
     <a href="assets/papers/report_nlp_billiot_deshayes.pdf" target="_blank"><i class="fa fa-file-pdf-o [&#xf1c1;]" ></i> pdf</a>   <a href="https://github.com/remydeshayes/NLP_Pytorch.git" target="_blank"><i class="fa fa-github"></i> code</a>
